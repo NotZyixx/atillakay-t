@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "MTA3NDYzMjA2NDUwODM3OTE4Nw.GcJ77W.ef6n3sGVjVGo2c-SHRBedLrpPD6fCF1A8Owt7Q",
+        "owner": "898281297796005888",
+        "prefix": "a!",
+        "botStatus": "ATILLA - NotZyixx",
+        "botVoiceChannelID": "1005391344040165401"
+    },
+    "Roles": {
+        "BoyRole1": "1079120683688271882",
+        "BoyRole2": "1079120683688271882",
+        "GirlRole1": "1074642425697538139",
+        "GirlRole2": "1074642425697538139",
+        "Unregister": "1074642424896442438",
+        "Registerer": "1080239615014862858",
+        "TagRole": "1080242803457663017",
+        "Suspicious": "1081255877069263010",
+        "Jail": "1081255877069263010"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "ＡＴＩＬＬＡ",
+            "ServerID": "980848149772001370",
+            "Tag": "TAG",
+            "UnTag": "UNTAG"
+    },
+        "Channels": {
+            "RegisterChat": "1074642478986178620",
+            "TagLog": "1089121442756558858",
+            "Rules": "1080233051373703178",
+            "GeneralChat": "1074642461948915824"
+        },
+        "Welcome": {
+            "WelcomeChat": "1005391343448756237",
+            "WelcomeName": "⚚ İsim | Yaş"
+        }
+}
